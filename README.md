@@ -9,7 +9,7 @@
 
 ### Previously
 - **Brightway Microfinance Bank**: Frontend Engineer / CTO (Jan 2025 – Apr 2026): digital banking web apps; platform grew to 10,000+ digital accounts.
-- **Astraverse**: Lead Frontend Engineer, Contract (Dec 2022 – Jul 2023): WebGL/Three.js 3D e-commerce experiences; engagement +45%, Lighthouse 65 → 90+.
+- **Astra Labs**: Lead Frontend Engineer, Contract (Dec 2022 – Jul 2023): WebGL/Three.js 3D e-commerce experiences; engagement +45%, Lighthouse 65 → 90+.
 - **Encentral Solutions**: joined as an intern, promoted to Frontend Team Lead (Jan 2021 – Dec 2024): led 9 frontend engineers on 10+ public-sector and enterprise platforms, including licensing, procurement and financial-services portals.
 
 ### Stack
